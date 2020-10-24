@@ -2,6 +2,17 @@
   color: var(--gray);
 }
 
+.copyright {
+}
+
 .version {
   font-size: 12px;
+}
+
+.email {
+  margin-top: 0.5em;
+}
+
+.email a {
+  color: currentColor;
 }
