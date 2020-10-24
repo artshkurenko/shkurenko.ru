@@ -1,0 +1,9 @@
+.block {
+  display: flex;
+  font-size: 17px;
+  margin: -15px;
+}
+
+.block a {
+  padding: 15px;
+}

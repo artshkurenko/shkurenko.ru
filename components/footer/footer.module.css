@@ -1,0 +1,7 @@
+.block {
+  color: var(--gray);
+}
+
+.version {
+  font-size: 12px;
+}

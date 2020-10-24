@@ -1,0 +1,14 @@
+.block {
+}
+
+.block h1 {
+  font-size: 72px;
+  line-height: 64px;
+  font-weight: bold;
+  margin-bottom: 42px;
+}
+
+.block p {
+  font-size: 17px;
+  line-height: 21px;
+}

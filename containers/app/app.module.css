@@ -1,0 +1,17 @@
+.block {
+  font-family: SKTR, sans-serif;
+  font-size: 16px;
+  line-height: 1;
+  padding: 0 80px;
+  -webkit-font-smoothing: antialiased;
+}
+
+.header {
+  padding-top: 40px;
+  padding-bottom: 80px;
+}
+
+.footer {
+  padding-top: 160px;
+  padding-bottom: 80px;
+}

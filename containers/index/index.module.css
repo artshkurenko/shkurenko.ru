@@ -1,0 +1,8 @@
+.block {
+  font-size: 52px;
+  line-height: 48px;
+}
+
+.block p + p {
+  margin-top: 42px;
+}

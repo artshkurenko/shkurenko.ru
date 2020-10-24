@@ -1,0 +1,7 @@
+.block {
+  text-transform: lowercase;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 16px;
+  display: block;
+}
